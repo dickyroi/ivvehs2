@@ -1,0 +1,49 @@
+ /* $blue: #0084ff;
+    $blue-darker: darken($blue, 5); */
+
+    .troisvaleurs {
+        border: 0.3em 0 9px dotted orange;
+    }
+
+    body {
+        margin: 4%;
+
+        font-family: Helvetica;
+
+    }
+
+    #banner-message {
+
+        background: #fff;
+        border-radius: 4px;
+        box-shadow: 0 0 17px rgba(20, 255, 120, 0.431);
+        box-shadow: 0 0 7px rgba(20, 0, 0, 120.31);
+        font-size: 12px;
+
+        text-align: center;
+        padding: 3px;
+
+        transition: all 3s;
+
+        width: 10cm;
+        height: 7cm;
+
+    }
+
+    #banner-message1 {
+
+        background: #fff;
+        border-radius: 4px;
+        box-shadow: 0 0 17px rgba(20, 255, 120, 0.431);
+        box-shadow: 0 0 7px rgba(20, 0, 0, 120.31);
+        padding: 3px;
+        font-size: 15px;
+
+        text-align: center;
+        transition: all 3s;
+
+        width: 10cm;
+        height: 7cm;
+
+    }
+    
